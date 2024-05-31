@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "CHAMPION",
+        "des": "Best Project Compition 2024",
+        "img": "https://i.ibb.co/rHXqKdX/award4.png",
+        "logo":"https://i.ibb.co/NtYbkgW/ict-division.png"
+    },
+    {
+        "id": 4,
+        "title": "WINNER",
+        "des": "Digital Bangladesh 2022",
+        "img": "https://i.ibb.co/ypJbqwH/award5.png",
+        "logo":"https://i.ibb.co/NtYbkgW/ict-division.png"
+    },
+    {
+        "id": 3,
+        "title": "CHAMPION",
+        "des": "National Mobile Application Award 2019",
+        "img": "https://i.ibb.co/X36X6fv/award3.png",
+        "logo":"https://i.ibb.co/NtYbkgW/ict-division.png"
+    },
+    {
+        "id": 2,
+        "title": "BEST COMPANY",
+        "des": "Leading Game Developer 2020",
+        "img": "https://i.ibb.co/rFqr8HX/award2.png",
+        "logo":"https://i.ibb.co/NtYbkgW/ict-division.png"
+    },
+
+    {
+        "id": 5,
+        "title": "Top Developer Company ",
+        "des": "Top Software Developer Company 2020",
+        "img": "https://i.ibb.co/HK361Bb/award1.png",
+        "logo":"https://i.ibb.co/NtYbkgW/ict-division.png"
+    }
+  
+]
+
+ 

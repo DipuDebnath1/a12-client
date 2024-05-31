@@ -1,0 +1,45 @@
+[
+    {
+        "id": 4,
+        "name": "Emily Brown",
+        "designation": "CTO, Tech Innovations LLC",
+        "testimonial": "The software development team provided exceptional service. They were responsive, flexible, and delivered a product that exceeded our expectations. Highly recommended!",
+        "img": "https://i.ibb.co/tCp6Hsn/images.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "designation": "Game Developer, Gaming Studios",
+        "testimonial": "I've worked with many game development teams, but this one stands out. Their attention to detail and passion for gaming truly reflects in the quality of their work. Looking forward to future collaborations!",
+        "img": "https://i.ibb.co/3Tm67Zz/images.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "designation": "Marketing Manager, XYZ Inc.",
+        "testimonial": "The digital marketing services provided by this team significantly boosted our online presence. We saw a noticeable increase in website traffic and leads. Great job!",
+        "img": "https://i.ibb.co/TLNKqt4/images.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "designation": "Founder, E-commerce Solutions Ltd.",
+        "testimonial": "Our e-commerce platform was seamlessly developed and launched within the agreed timeline. The team's expertise and dedication ensured a smooth experience throughout the project.",
+        "img": "https://i.ibb.co/JjYqBmJ/young-bearded-man-with-striped-shirt.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sarah Johnson",
+        "designation": "Creative Director, Design Studio Inc.",
+        "testimonial": "The UX/UI design team understood our vision perfectly and translated it into a visually stunning and user-friendly interface. Their attention to detail and creativity exceeded our expectations.",
+        "img": "https://i.ibb.co/ggXL7G7/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg"
+    },
+    {
+        "id": 1,
+        "name": "John Doe",
+        "designation": "CEO, ABC Company",
+        "testimonial": "Working with the team was an absolute pleasure. They delivered our project on time and exceeded our expectations. Highly recommended!",
+        "img": "https://i.ibb.co/fxM1Zq6/Rectangle-29.png"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "title": "App Development",
+        "img": "https://i.ibb.co/cQ33jZ8/app.png",
+        "description": "We specialize in creating custom mobile applications tailored to your specific needs. Whether you need an app for iOS, Android, or both, we've got you covered. From initial concept to final deployment, we ensure a smooth and efficient development process.",
+        "features": [
+            { "name": "Basic", "description": "Simple mobile application development with basic features." },
+            { "name": "Standard", "description": "Mid-level mobile application development with additional features." },
+            { "name": "Premium", "description": "Advanced mobile application development with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$1000" },
+            { "category": "Standard", "price": "$3000" },
+            { "category": "Premium", "price": "$6000" }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "img": "https://i.ibb.co/q9f6cXR/web.png",
+        "description": "We offer comprehensive web development services to help businesses establish a strong online presence. Our team is proficient in a variety of web technologies and frameworks, ensuring high-quality and scalable solutions for your website needs.",
+        "features": [
+            { "name": "Basic", "description": "Simple website development with basic features." },
+            { "name": "Standard", "description": "Mid-level website development with additional features." },
+            { "name": "Premium", "description": "Advanced website development with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$800" },
+            { "category": "Standard", "price": "$2500" },
+            { "category": "Premium", "price": "$5000" }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Software Development",
+        "img": "https://i.ibb.co/NTg7Vc6/softwere.png",
+        "description": "Our software development services cover a wide range of needs, from desktop applications to enterprise-level solutions. We leverage the latest technologies and best practices to deliver robust and scalable software tailored to your business requirements.",
+        "features": [
+            { "name": "Basic", "description": "Simple software development with basic features." },
+            { "name": "Standard", "description": "Mid-level software development with additional features." },
+            { "name": "Premium", "description": "Advanced software development with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$1500" },
+            { "category": "Standard", "price": "$4000" },
+            { "category": "Premium", "price": "$8000" }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Blockchain Development",
+        "img": "https://i.ibb.co/xLDQs2q/blockcain.png",
+        "description": "Explore the potential of blockchain technology with our development services. Whether you need a custom blockchain solution, smart contract development, or decentralized application (dApp) creation, our team has the expertise to bring your ideas to life.",
+        "features": [
+            { "name": "Basic", "description": "Simple blockchain development with basic features." },
+            { "name": "Standard", "description": "Mid-level blockchain development with additional features." },
+            { "name": "Premium", "description": "Advanced blockchain development with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$2000" },
+            { "category": "Standard", "price": "$5000" },
+            { "category": "Premium", "price": "$10000" }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Game Development",
+        "img": "https://i.ibb.co/3sqv96T/game.png",
+        "description": "Turn your gaming ideas into reality with our professional game development services. Whether you're looking to create a mobile game, PC game, or console game, our experienced team can handle all aspects of game development from design to deployment.",
+        "features": [
+            { "name": "Basic", "description": "Simple game development with basic features." },
+            { "name": "Standard", "description": "Mid-level game development with additional features." },
+            { "name": "Premium", "description": "Advanced game development with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$2500" },
+            { "category": "Standard", "price": "$6000" },
+            { "category": "Premium", "price": "$12000" }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "DevOps Solutions & Services",
+        "img": "https://i.ibb.co/sWQh578/devopps.png",
+        "description": "Optimize your software development and deployment processes with our DevOps solutions and services. From continuous integration and delivery (CI/CD) setup to infrastructure automation, we help streamline your development workflows for improved efficiency and reliability.",
+        "features": [
+            { "name": "Basic", "description": "Simple DevOps solutions and services with basic features." },
+            { "name": "Standard", "description": "Mid-level DevOps solutions and services with additional features." },
+            { "name": "Premium", "description": "Advanced DevOps solutions and services with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$1200" },
+            { "category": "Standard", "price": "$3500" },
+            { "category": "Premium", "price": "$7000" }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Digital Marketing",
+        "img": "https://i.ibb.co/8cz0Zvh/Digital-Marketing.png",
+        "description": "Boost your online presence and reach your target audience effectively with our digital marketing services. From search engine optimization (SEO) and social media marketing to content creation and email campaigns, we help businesses grow their brand online.",
+        "features": [
+            { "name": "Basic", "description": "Simple digital marketing services with basic features." },
+            { "name": "Standard", "description": "Mid-level digital marketing services with additional features." },
+            { "name": "Premium", "description": "Advanced digital marketing services with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$500" },
+            { "category": "Standard", "price": "$1500" },
+            { "category": "Premium", "price": "$3000" }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Cyber Security",
+        "img": "https://i.ibb.co/5hsjYKM/Cyber-Security.png",
+        "description": "Protect your digital assets and sensitive information from cyber threats with our comprehensive cybersecurity services. From penetration testing and vulnerability assessments to incident response and security awareness training, we help safeguard your business from online threats.",
+        "features": [
+            { "name": "Basic", "description": "Simple cybersecurity services with basic features." },
+            { "name": "Standard", "description": "Mid-level cybersecurity services with additional features." },
+            { "name": "Premium", "description": "Advanced cybersecurity services with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$2000" },
+            { "category": "Standard", "price": "$5000" },
+            { "category": "Premium", "price": "$10000" }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "UX-UI Design",
+        "img": "https://i.ibb.co/zGJsfhn/ui-ux.png",
+        "description": "Deliver exceptional user experiences and intuitive interfaces with our UX/UI design services. Whether you need wireframing and prototyping or full-fledged design implementation, our team focuses on creating engaging and user-friendly designs to enhance your product.",
+        "features": [
+            { "name": "Basic", "description": "Simple UX/UI design services with basic features." },
+            { "name": "Standard", "description": "Mid-level UX/UI design services with additional features." },
+            { "name": "Premium", "description": "Advanced UX/UI design services with extensive features and support." }
+        ],
+        "pricePackages": [
+            { "category": "Basic", "price": "$700" },
+            { "category": "Standard", "price": "$2000" },
+            { "category": "Premium", "price": "$4000" }
+        ]
+    }
+]
+
