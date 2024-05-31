@@ -56,11 +56,11 @@ const SignIn = () => {
                 </div>
              
                 <div>
-                    <p>have a account please <Link to={'/register'}> <strong  className='text-cyan-600'>Register</strong></Link></p>
+                    <p>have not a account please <Link to={'/register'}> <strong  className='text-cyan-600'>Register</strong></Link></p>
                 </div>
                 {
-                    submitBtn ?  <Button type="submit">Register new account</Button> :
-                    <Button disabled type="submit">Register new account</Button>
+                    submitBtn ?  <Button type="submit">Sign Up</Button> :
+                    <Button disabled type="submit">Sign Up</Button>
                 }
                
             </form>

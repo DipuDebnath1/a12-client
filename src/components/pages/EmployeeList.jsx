@@ -1,4 +1,4 @@
-import axios, { Axios, AxiosError } from "axios";
+import axios from "axios";
 import { Button, Spinner, Table } from "flowbite-react";
 import { useContext, useEffect, useState } from "react";
 import { ImCross } from "react-icons/im";
